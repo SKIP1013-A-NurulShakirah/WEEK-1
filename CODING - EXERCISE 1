@@ -1,0 +1,27 @@
+package myinfo;
+
+public class Personal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println();
+		System.out.println("-<~-<~-<~-<~-<~-<~-<~-<~- Welcome To My Personal Information -~>-~>-~>-~>-~>-~>-~>-~>-");
+		System.out.println();
+		System.out.println();
+		System.out.println(" <> Name          : Nurul Shakirah binti Otsman");
+		System.out.println(" <> Matric number : 288116");
+		System.out.println(" <> Course        : Bachelor of Computer Science with Honours");
+		System.out.println(" <> Age           : 19 years old");
+		System.out.println(" <> Phone number  : 019-403 7454");
+		System.out.println(" <> Hobby         : Reading, Narrating, Listening to music");
+		System.out.println(" <> Father        : Otsman bin Ahamed Khatidin");
+		System.out.println(" <> Mother        : Umi Hanom binti Umar");
+		System.out.println(" <> Adress        : No. 11, Lorong 1, Taman Berlian, Kg. Padang Tembak, 36000 Teluk Intan, Perak");
+		System.out.println();
+		System.out.println();
+		System.out.println("                             << I love Programming! >>                        ");
+		
+
+	}
+
+}
